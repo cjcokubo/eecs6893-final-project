@@ -1926,5 +1926,1451 @@
     "data/aiArt/img_aiArt_1ol49os.jpeg": {
         "flair": "Image - Bing Image Creator :a2:",
         "url": "https://i.redd.it/pxjtaf8l3iyf1.jpeg"
+    },
+    "data_collection/data/aiArt/img_aiArt_1ox25wm.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/feksft80891g1.jpeg",
+        "created_at": "2025-11-14T12:04:34",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ox1em3.png": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/9wpyi8n4391g1.png",
+        "created_at": "2025-11-14T11:37:01",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ox1e4m.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/i9ufe9i2391g1.jpeg",
+        "created_at": "2025-11-14T11:36:33",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ox13oz.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/kjc4kvu7191g1.png",
+        "created_at": "2025-11-14T11:26:11",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ox0ig9.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/6x9b84adx81g1.jpeg",
+        "created_at": "2025-11-14T11:04:42",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ox0fhn.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/ec5rjtiuw81g1.png",
+        "created_at": "2025-11-14T11:01:43",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ox078y.png": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/wc6its8dv81g1.png",
+        "created_at": "2025-11-14T10:53:26",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1owzzo5.jpeg": {
+        "flair": "Image - DALL E 3 :a2:",
+        "url": "https://i.redd.it/wdmdescwt81g1.jpeg",
+        "created_at": "2025-11-14T10:45:34",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owyiyd.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/h2f140z9k81g1.png",
+        "created_at": "2025-11-14T09:51:14",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1owydsn.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/cv1c3xpaj81g1.jpeg",
+        "created_at": "2025-11-14T09:45:44",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owxuo5.jpeg": {
+        "flair": "Image - Leonardo.ai :a2:",
+        "url": "https://i.redd.it/82992uoif81g1.jpeg",
+        "created_at": "2025-11-14T09:24:33",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owxqgo.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/p6n17mhqe81g1.jpeg",
+        "created_at": "2025-11-14T09:20:09",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1owx1nv.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/z95h1lyc981g1.png",
+        "created_at": "2025-11-14T08:52:16",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1owvwg0.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/v3u236ox081g1.png",
+        "created_at": "2025-11-14T08:02:50",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1owuwbn.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/fqw66z3ds71g1.png",
+        "created_at": "2025-11-14T07:14:47",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1owufv4.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/s5dby5cao71g1.jpeg",
+        "created_at": "2025-11-14T06:51:57",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owuapq.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/v4ru3d2ym71g1.jpeg",
+        "created_at": "2025-11-14T06:44:28",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1owsqmm.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/g5u39r0z671g1.png",
+        "created_at": "2025-11-14T05:15:34",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1owso3i.jpeg": {
+        "flair": "Image - Whisk",
+        "url": "https://i.redd.it/fwo360hb671g1.jpeg",
+        "created_at": "2025-11-14T05:11:19",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ows0po.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/0o0yqfosy61g1.png",
+        "created_at": "2025-11-14T04:30:20",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1owr5sz.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/o31c7835p61g1.png",
+        "created_at": "2025-11-14T03:34:55",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owr4ri.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/7appwfdso61g1.png",
+        "created_at": "2025-11-14T03:32:56",
+        "score": 9
+    },
+    "data_collection/data/aiArt/img_aiArt_1owr30u.jpeg": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/mldtw9v4o61g1.jpeg",
+        "created_at": "2025-11-14T03:29:49",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1owqxe8.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/qypnm1pbm61g1.jpeg",
+        "created_at": "2025-11-14T03:19:19",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owqq9p.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/kionvnryj61g1.png",
+        "created_at": "2025-11-14T03:06:13",
+        "score": 10
+    },
+    "data_collection/data/aiArt/img_aiArt_1owpy1f.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/7tl15o62b61g1.png",
+        "created_at": "2025-11-14T02:16:21",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owoiz0.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/kvfjfckzv51g1.png",
+        "created_at": "2025-11-14T00:51:40",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1owob07.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/5a4ri0dnt51g1.jpeg",
+        "created_at": "2025-11-14T00:39:03",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ownx7g.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/pkg8xi1zp51g1.jpeg",
+        "created_at": "2025-11-14T00:17:49",
+        "score": 23
+    },
+    "data_collection/data/aiArt/img_aiArt_1ownf8f.png": {
+        "flair": "Image - Wan",
+        "url": "https://i.redd.it/advh87j9l51g1.png",
+        "created_at": "2025-11-13T23:51:47",
+        "score": 49
+    },
+    "data_collection/data/aiArt/img_aiArt_1owmahr.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/rtysp191b51g1.jpeg",
+        "created_at": "2025-11-13T22:54:09",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1owm8wy.jpeg": {
+        "flair": "Image - DALL E 3 :a2:",
+        "url": "https://i.redd.it/bv5vazrna51g1.jpeg",
+        "created_at": "2025-11-13T22:51:58",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owli4u.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/g6osisl1451g1.jpeg",
+        "created_at": "2025-11-13T22:15:09",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owkyl9.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/okgpu95fz41g1.png",
+        "created_at": "2025-11-13T21:49:00",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1owk7ck.png": {
+        "flair": "Image - Other: NovelAI",
+        "url": "https://i.redd.it/9yt7py3zs41g1.png",
+        "created_at": "2025-11-13T21:13:11",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1owj55e.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/j6h4rm3bk41g1.jpeg",
+        "created_at": "2025-11-13T20:24:17",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owj26i.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/yfjiutv8j41g1.png",
+        "created_at": "2025-11-13T20:20:20",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1owilb4.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/5g8n8qxtf41g1.jpeg",
+        "created_at": "2025-11-13T19:59:11",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1owh8zn.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/8x7m43b6541g1.png",
+        "created_at": "2025-11-13T18:59:26",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owh3ap.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/qz8rrfpv341g1.png",
+        "created_at": "2025-11-13T18:52:34",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owgzqq.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/iamjvi66341g1.png",
+        "created_at": "2025-11-13T18:48:23",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owgw1a.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/ni7ri197241g1.png",
+        "created_at": "2025-11-13T18:44:01",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owgvoq.jpeg": {
+        "flair": "Image - Bing Image Creator :a2:",
+        "url": "https://i.redd.it/k68yxhlc241g1.jpeg",
+        "created_at": "2025-11-13T18:43:36",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1owgrqa.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/lti7c9mh141g1.jpeg",
+        "created_at": "2025-11-13T18:38:51",
+        "score": 16
+    },
+    "data_collection/data/aiArt/img_aiArt_1owg01i.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/xmd2v95iv31g1.png",
+        "created_at": "2025-11-13T18:05:36",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owfwco.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/1ijo897ru31g1.png",
+        "created_at": "2025-11-13T18:01:17",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owfqn4.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/1my42fimt31g1.jpeg",
+        "created_at": "2025-11-13T17:54:42",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1owfdmz.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/xht1k4vxq31g1.png",
+        "created_at": "2025-11-13T17:40:03",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owek58.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/4hyuy3pyk31g1.png",
+        "created_at": "2025-11-13T17:06:43",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owdpu4.jpeg": {
+        "flair": "Image - Meta AI  :a2:",
+        "url": "https://i.redd.it/mjpqjdv7f31g1.jpeg",
+        "created_at": "2025-11-13T16:33:58",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owd7j0.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/ixoupjlqb31g1.jpeg",
+        "created_at": "2025-11-13T16:14:27",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1owcxss.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/7nieqd9v931g1.jpeg",
+        "created_at": "2025-11-13T16:04:08",
+        "score": 157
+    },
+    "data_collection/data/aiArt/img_aiArt_1owcep1.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/x78ow118631g1.jpeg",
+        "created_at": "2025-11-13T15:43:32",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1owbwe6.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/15uxz48l231g1.png",
+        "created_at": "2025-11-13T15:23:39",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1owbq7e.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/v5qkxmgl031g1.png",
+        "created_at": "2025-11-13T15:16:47",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1owawoy.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/4r67bctyv21g1.png",
+        "created_at": "2025-11-13T14:46:08",
+        "score": 12
+    },
+    "data_collection/data/aiArt/img_aiArt_1owa91u.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/85yx1quqp21g1.png",
+        "created_at": "2025-11-13T14:20:59",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ow9oq2.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/jno0k33pm21g1.png",
+        "created_at": "2025-11-13T13:59:58",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ow7qve.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/yod3j2n0b21g1.png",
+        "created_at": "2025-11-13T12:48:38",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ow7hjz.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/728pmrja921g1.png",
+        "created_at": "2025-11-13T12:39:02",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ow56ti.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/bnqw64wzt11g1.png",
+        "created_at": "2025-11-13T11:13:13",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ow4dpw.jpeg": {
+        "flair": "Image - DALL E 3 :a2:",
+        "url": "https://i.redd.it/08w0modeo11g1.jpeg",
+        "created_at": "2025-11-13T10:42:21",
+        "score": 11
+    },
+    "data_collection/data/aiArt/img_aiArt_1ow44qf.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/27rytcbqm11g1.jpeg",
+        "created_at": "2025-11-13T10:32:35",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ow0x64.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/iv24g9ddz01g1.jpeg",
+        "created_at": "2025-11-13T08:22:02",
+        "score": 11
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovzzyq.png": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/frvazfuur01g1.png",
+        "created_at": "2025-11-13T07:39:46",
+        "score": 17
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovyan6.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/x2cflzbbb01g1.png",
+        "created_at": "2025-11-13T06:06:44",
+        "score": 7
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovx73g.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/4gsmkoxazz0g1.png",
+        "created_at": "2025-11-13T04:59:25",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovwu3f.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/ooyzh5m1vz0g1.png",
+        "created_at": "2025-11-13T04:35:33",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovwtpq.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/p3hh63fuuz0g1.png",
+        "created_at": "2025-11-13T04:34:51",
+        "score": 31
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovws1m.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/hdpk18jcuz0g1.jpeg",
+        "created_at": "2025-11-13T04:31:38",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovwr61.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/fgw58dq2uz0g1.png",
+        "created_at": "2025-11-13T04:30:07",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovw30k.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/pppwoo1nlz0g1.jpeg",
+        "created_at": "2025-11-13T03:45:47",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovvzon.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/akkij4d1lz0g1.jpeg",
+        "created_at": "2025-11-13T03:39:26",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovvtmr.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/x7zdnxhxiz0g1.jpeg",
+        "created_at": "2025-11-13T03:27:42",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovtnva.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/okohkmnuuy0g1.png",
+        "created_at": "2025-11-13T01:12:40",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovtnj9.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/ta1xiy6ruy0g1.png",
+        "created_at": "2025-11-13T01:12:08",
+        "score": 10
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovtcje.jpeg": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/akiy27enry0g1.jpeg",
+        "created_at": "2025-11-13T00:54:43",
+        "score": 7
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovsxzp.jpeg": {
+        "flair": "Image - Other: Whisk",
+        "url": "https://i.redd.it/w6ojf854ny0g1.jpeg",
+        "created_at": "2025-11-13T00:31:40",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovsgis.jpeg": {
+        "flair": "Image - Bing Image Creator :a2:",
+        "url": "https://i.redd.it/ieed578qiy0g1.jpeg",
+        "created_at": "2025-11-13T00:04:43",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovsfyt.jpeg": {
+        "flair": "Image - Bing Image Creator :a2:",
+        "url": "https://i.redd.it/lcppstbkiy0g1.jpeg",
+        "created_at": "2025-11-13T00:03:53",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovrxfh.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/ls4jexcsdy0g1.jpeg",
+        "created_at": "2025-11-12T23:37:01",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovq9cf.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/by2q008wyx0g1.jpeg",
+        "created_at": "2025-11-12T22:14:09",
+        "score": 29
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovou1w.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/mommwqhcnx0g1.jpeg",
+        "created_at": "2025-11-12T21:08:50",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovnxr0.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/uwpdn6ayfx0g1.png",
+        "created_at": "2025-11-12T20:27:26",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovnknr.png": {
+        "flair": "Image - Other: NovelAI",
+        "url": "https://i.redd.it/vjolbb9ycx0g1.png",
+        "created_at": "2025-11-12T20:10:56",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovn7ck.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/pxtlnbm5ax0g1.jpeg",
+        "created_at": "2025-11-12T19:54:54",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovmtig.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/gywte3g37x0g1.png",
+        "created_at": "2025-11-12T19:37:45",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovm4i8.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/786ajcns1x0g1.png",
+        "created_at": "2025-11-12T19:08:02",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovlzas.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/9da226aq0x0g1.png",
+        "created_at": "2025-11-12T19:02:04",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovjclt.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/r23smlyphw0g1.png",
+        "created_at": "2025-11-12T17:15:30",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovj9wq.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/15hsbm3ygw0g1.png",
+        "created_at": "2025-11-12T17:12:48",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1oviwq1.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/pzb2gzqkew0g1.png",
+        "created_at": "2025-11-12T16:59:13",
+        "score": 53
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovhj26.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/yjsufjdm5w0g1.png",
+        "created_at": "2025-11-12T16:07:49",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovgthj.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/etuvpppw0w0g1.png",
+        "created_at": "2025-11-12T15:41:16",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovfzqs.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/wab2bg7bvv0g1.png",
+        "created_at": "2025-11-12T15:10:02",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovfmbf.jpeg": {
+        "flair": "Image - Meta AI  :a2:",
+        "url": "https://i.redd.it/hke2z4owsv0g1.jpeg",
+        "created_at": "2025-11-12T14:56:26",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovfeza.png": {
+        "flair": "Image - BudgetPixel AI",
+        "url": "https://i.redd.it/nysimenirv0g1.png",
+        "created_at": "2025-11-12T14:49:05",
+        "score": 8
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovfeva.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/ldvdnhrkrv0g1.jpeg",
+        "created_at": "2025-11-12T14:48:58",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovefpc.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/x5cznguykv0g1.png",
+        "created_at": "2025-11-12T14:13:05",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ove1lx.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/fu73s3dh9t0g1.png",
+        "created_at": "2025-11-12T13:59:29",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovdsr4.jpeg": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/tfv28717hv0g1.jpeg",
+        "created_at": "2025-11-12T13:50:47",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovdqso.jpeg": {
+        "flair": "Image - DALL E 3 :a2:",
+        "url": "https://i.redd.it/su3p4eyqgv0g1.jpeg",
+        "created_at": "2025-11-12T13:48:51",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovbsjc.png": {
+        "flair": "Image - SoraAI :a2:",
+        "url": "https://i.redd.it/pk54o8pz3v0g1.png",
+        "created_at": "2025-11-12T12:39:46",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1ovaa8d.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/lxepg9oxuu0g1.jpeg",
+        "created_at": "2025-11-12T11:46:06",
+        "score": 40
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov9e07.jpeg": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/1k26c660pu0g1.jpeg",
+        "created_at": "2025-11-12T11:12:48",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov7bwf.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/ruoiu70gbu0g1.jpeg",
+        "created_at": "2025-11-12T09:56:46",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov706e.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/c4ppl8m89u0g1.jpeg",
+        "created_at": "2025-11-12T09:44:24",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov5tly.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/c6549itw0u0g1.jpeg",
+        "created_at": "2025-11-12T08:57:44",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov5tbg.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/hpu3r8jyyt0g1.png",
+        "created_at": "2025-11-12T08:57:23",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov5rkv.jpeg": {
+        "flair": "Image - Other: Please edit, or your post may be deleted.",
+        "url": "https://i.redd.it/wt4bqa1i0u0g1.jpeg",
+        "created_at": "2025-11-12T08:55:25",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov4d1n.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/mj21hyfppt0g1.jpeg",
+        "created_at": "2025-11-12T07:54:56",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov492d.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/jybfrp1rot0g1.png",
+        "created_at": "2025-11-12T07:49:38",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov45rk.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/qjnpmnzvnt0g1.png",
+        "created_at": "2025-11-12T07:45:14",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov43jv.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/agytu5dgnt0g1.jpeg",
+        "created_at": "2025-11-12T07:42:18",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov3syy.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/2j0krq6wkt0g1.jpeg",
+        "created_at": "2025-11-12T07:27:59",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov2bgb.jpeg": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/cvxo7i9o6t0g1.jpeg",
+        "created_at": "2025-11-12T06:08:34",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov2auz.png": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/jek8lovj6t0g1.png",
+        "created_at": "2025-11-12T06:07:37",
+        "score": 17
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov28wm.jpeg": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/lxijxzux5t0g1.jpeg",
+        "created_at": "2025-11-12T06:04:35",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov2864.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/hl5jjs9m5t0g1.png",
+        "created_at": "2025-11-12T06:03:21",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov26an.jpeg": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/kvd7a4k95t0g1.jpeg",
+        "created_at": "2025-11-12T06:00:41",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov25gp.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/fnlmo6qz4t0g1.png",
+        "created_at": "2025-11-12T05:59:28",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov24lj.jpeg": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/uk8e11vs4t0g1.jpeg",
+        "created_at": "2025-11-12T05:58:00",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov1sig.jpeg": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/jd1wjj811t0g1.jpeg",
+        "created_at": "2025-11-12T05:36:59",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov1i0d.jpeg": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/a4cntbd6ws0g1.jpeg",
+        "created_at": "2025-11-12T05:18:34",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov1gw7.png": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/kz0kisxexs0g1.png",
+        "created_at": "2025-11-12T05:16:29",
+        "score": 8
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov1g4k.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/on6d2fw7xs0g1.png",
+        "created_at": "2025-11-12T05:15:15",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov1ft0.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/hh7b9zg4xs0g1.png",
+        "created_at": "2025-11-12T05:14:43",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov0cy2.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/txjam8foks0g1.png",
+        "created_at": "2025-11-12T04:05:04",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1ov08ho.jpeg": {
+        "flair": "Image - Meta AI  :a2:",
+        "url": "https://i.redd.it/d2ayjt1cjs0g1.jpeg",
+        "created_at": "2025-11-12T03:57:26",
+        "score": 41
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouznvb.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/wg1z63wpcs0g1.jpeg",
+        "created_at": "2025-11-12T03:20:28",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouzkxi.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/mfyrnmirbs0g1.png",
+        "created_at": "2025-11-12T03:15:11",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouz7bc.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/obx5hxrl7s0g1.png",
+        "created_at": "2025-11-12T02:51:43",
+        "score": 25
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouxzql.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/e818stw6ur0g1.png",
+        "created_at": "2025-11-12T01:36:31",
+        "score": 12
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouxf1j.jpeg": {
+        "flair": "Image - SoraAI :a2:",
+        "url": "https://i.redd.it/j1gboyh2or0g1.jpeg",
+        "created_at": "2025-11-12T01:02:12",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouwli4.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/duz8iebf9r0g1.png",
+        "created_at": "2025-11-12T00:16:18",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouwhnk.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/3qw4wezrer0g1.png",
+        "created_at": "2025-11-12T00:10:40",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouwguf.jpeg": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/884wdsaner0g1.jpeg",
+        "created_at": "2025-11-12T00:09:27",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouwc5r.png": {
+        "flair": "Image - Bing Image Creator :a2:",
+        "url": "https://i.redd.it/s3o1zfzedr0g1.png",
+        "created_at": "2025-11-12T00:02:34",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouv82u.jpeg": {
+        "flair": "Image - Other: Please edit, or your post may be deleted.",
+        "url": "https://i.redd.it/n3r6lnyf0r0g1.jpeg",
+        "created_at": "2025-11-11T23:04:30",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouskyr.png": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/tzafj6fxgq0g1.png",
+        "created_at": "2025-11-11T21:00:24",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouse3p.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/ajolbxtbfq0g1.jpeg",
+        "created_at": "2025-11-11T20:51:28",
+        "score": 10
+    },
+    "data_collection/data/aiArt/img_aiArt_1ourufr.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/bwrob6bvaq0g1.jpeg",
+        "created_at": "2025-11-11T20:26:25",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ourq16.png": {
+        "flair": "Image - Gemini",
+        "url": "https://i.redd.it/nun5awot9q0g1.png",
+        "created_at": "2025-11-11T20:20:53",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1oupylj.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/d811vu5tvp0g1.png",
+        "created_at": "2025-11-11T19:02:32",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouptjt.jpeg": {
+        "flair": "Image - Meta AI  :a2:",
+        "url": "https://i.redd.it/wayazjmwup0g1.jpeg",
+        "created_at": "2025-11-11T18:56:56",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1oupgss.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/bwrf7bz2sp0g1.png",
+        "created_at": "2025-11-11T18:42:00",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1oupbbc.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/3rtycck2rp0g1.jpeg",
+        "created_at": "2025-11-11T18:35:29",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ounwcv.jpeg": {
+        "flair": "Image - ComfyUI",
+        "url": "https://i.redd.it/zjx5abf5gp0g1.jpeg",
+        "created_at": "2025-11-11T17:37:55",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1oumsog.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/eu8evpku8p0g1.jpeg",
+        "created_at": "2025-11-11T16:54:44",
+        "score": 67
+    },
+    "data_collection/data/aiArt/img_aiArt_1oumine.png": {
+        "flair": "Image - Other: NovelAI",
+        "url": "https://i.redd.it/faadgxq47p0g1.png",
+        "created_at": "2025-11-11T16:44:01",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1oum49a.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/sh78jund4p0g1.png",
+        "created_at": "2025-11-11T16:28:33",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1oukrgw.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/iwe1eh1dvo0g1.jpeg",
+        "created_at": "2025-11-11T15:37:43",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1oujyfd.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/r88r5jjtpo0g1.png",
+        "created_at": "2025-11-11T15:06:46",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1oujr88.png": {
+        "flair": "Image - Qwen",
+        "url": "https://i.redd.it/ecep6go8sn0g1.png",
+        "created_at": "2025-11-11T14:59:42",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1oujgkl.jpeg": {
+        "flair": "Image - DALL E 3 :a2:",
+        "url": "https://i.redd.it/1fgaaammmo0g1.jpeg",
+        "created_at": "2025-11-11T14:48:48",
+        "score": 14
+    },
+    "data_collection/data/aiArt/img_aiArt_1oui2xu.jpeg": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/v3fag0wgdo0g1.jpeg",
+        "created_at": "2025-11-11T13:58:10",
+        "score": 31
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouhysg.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/1k6m8v2hco0g1.png",
+        "created_at": "2025-11-11T13:54:08",
+        "score": 8
+    },
+    "data_collection/data/aiArt/img_aiArt_1oufhlw.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/dg8j4xcqwn0g1.png",
+        "created_at": "2025-11-11T12:24:10",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ouekp2.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/gkb3qn6xqn0g1.png",
+        "created_at": "2025-11-11T11:51:03",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1oue05o.png": {
+        "flair": "Image - Meta AI  :a2:",
+        "url": "https://i.redd.it/x1wx4675nn0g1.png",
+        "created_at": "2025-11-11T11:29:53",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1oudidh.jpeg": {
+        "flair": "Image - DALL E 3 :a2:",
+        "url": "https://i.redd.it/e9ge5hzujn0g1.jpeg",
+        "created_at": "2025-11-11T11:11:48",
+        "score": 7
+    },
+    "data_collection/data/aiArt/img_aiArt_1oucq9g.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/sp0jh2rren0g1.jpeg",
+        "created_at": "2025-11-11T10:43:00",
+        "score": 9
+    },
+    "data_collection/data/aiArt/img_aiArt_1oubb2z.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/iun0nzgx4n0g1.png",
+        "created_at": "2025-11-11T09:47:47",
+        "score": 10
+    },
+    "data_collection/data/aiArt/img_aiArt_1oub8n3.jpeg": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/1mdrql3g4n0g1.jpeg",
+        "created_at": "2025-11-11T09:45:04",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1oub765.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/urgrrf234n0g1.png",
+        "created_at": "2025-11-11T09:43:24",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1oua3n0.png": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/axu90syvvm0g1.png",
+        "created_at": "2025-11-11T08:57:09",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1oua2k0.jpeg": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/lv3v3tznvm0g1.jpeg",
+        "created_at": "2025-11-11T08:55:51",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou9pd2.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/iuvlp52rsm0g1.png",
+        "created_at": "2025-11-11T08:39:52",
+        "score": 8
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou99r4.jpeg": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/f5hyorf5pm0g1.jpeg",
+        "created_at": "2025-11-11T08:20:31",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou7v53.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/yjwrjueddm0g1.png",
+        "created_at": "2025-11-11T07:13:19",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou7spg.png": {
+        "flair": "Image - Sogni AI",
+        "url": "https://i.redd.it/2aw1eemgcm0g1.png",
+        "created_at": "2025-11-11T07:09:52",
+        "score": 10
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou6ov5.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/fctb1pzk1m0g1.jpeg",
+        "created_at": "2025-11-11T06:07:15",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou6217.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/ic13osytul0g1.jpeg",
+        "created_at": "2025-11-11T05:29:28",
+        "score": 17
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou614q.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/8tetlldkul0g1.jpeg",
+        "created_at": "2025-11-11T05:27:59",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou5zds.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/ic4m6xg0ul0g1.jpeg",
+        "created_at": "2025-11-11T05:24:57",
+        "score": 7
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou4xdb.png": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/pth6s0vxdl0g1.png",
+        "created_at": "2025-11-11T04:18:06",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou4sta.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/mgeaei6mgl0g1.jpeg",
+        "created_at": "2025-11-11T04:09:43",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou48v1.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/7kzxp3q3al0g1.png",
+        "created_at": "2025-11-11T03:33:13",
+        "score": 12
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou48l6.png": {
+        "flair": "Image - Whisk",
+        "url": "https://i.redd.it/koiddh40al0g1.png",
+        "created_at": "2025-11-11T03:32:43",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou48kw.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/di5p22e0al0g1.png",
+        "created_at": "2025-11-11T03:32:42",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou3vsd.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/m6io628y5l0g1.jpeg",
+        "created_at": "2025-11-11T03:10:06",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou2u0n.jpeg": {
+        "flair": "Image - Meta AI  :a2:",
+        "url": "https://i.redd.it/8p7987mttk0g1.jpeg",
+        "created_at": "2025-11-11T02:02:59",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou2ceg.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/bdi0dwukok0g1.png",
+        "created_at": "2025-11-11T01:32:44",
+        "score": 46
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou1660.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/jvbrhboack0g1.png",
+        "created_at": "2025-11-11T00:23:58",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou152f.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/dscfn1i0ck0g1.png",
+        "created_at": "2025-11-11T00:22:12",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1ou13be.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/kujebyoibk0g1.png",
+        "created_at": "2025-11-11T00:19:32",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1otzt5e.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/dwoob41hzj0g1.png",
+        "created_at": "2025-11-10T23:11:52",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1otz1sa.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/zn4hflepsj0g1.jpeg",
+        "created_at": "2025-11-10T22:33:57",
+        "score": 7
+    },
+    "data_collection/data/aiArt/img_aiArt_1otyel2.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/1sntjik3nj0g1.jpeg",
+        "created_at": "2025-11-10T22:02:32",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1otx9s8.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/8pofajsmdj0g1.jpeg",
+        "created_at": "2025-11-10T21:09:26",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1otx7dz.png": {
+        "flair": "Image - BudgetPixel AI",
+        "url": "https://i.redd.it/fuhj3hpxcj0g1.png",
+        "created_at": "2025-11-10T21:06:19",
+        "score": 10
+    },
+    "data_collection/data/aiArt/img_aiArt_1otw8sq.png": {
+        "flair": "Image - Bing Image Creator :a2:",
+        "url": "https://i.redd.it/lold5gx25j0g1.png",
+        "created_at": "2025-11-10T20:22:09",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1otviiw.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/i2otv61czi0g1.png",
+        "created_at": "2025-11-10T19:49:24",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1otu3cr.jpeg": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/ushjeb46oi0g1.jpeg",
+        "created_at": "2025-11-10T18:47:55",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1ottzpr.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/isimx7bmni0g1.png",
+        "created_at": "2025-11-10T18:43:43",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1otq6kn.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/t8vu3a9qwh0g1.png",
+        "created_at": "2025-11-10T16:12:55",
+        "score": 19
+    },
+    "data_collection/data/aiArt/img_aiArt_1otpn7n.png": {
+        "flair": "Image - ComfyUI",
+        "url": "https://i.redd.it/8glngyfgsh0g1.png",
+        "created_at": "2025-11-10T15:52:54",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1otomd3.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/1onkhs6bmh0g1.png",
+        "created_at": "2025-11-10T15:14:35",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1otnwpo.jpeg": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/jq2ktufaaszf1.jpeg",
+        "created_at": "2025-11-10T14:48:30",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1otnl9v.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/6b10dn5lfh0g1.jpeg",
+        "created_at": "2025-11-10T14:36:50",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1otni4b.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/ycsukhl0fh0g1.png",
+        "created_at": "2025-11-10T14:33:39",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1otn5uy.jpeg": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/uu32tu3f8h0g1.jpeg",
+        "created_at": "2025-11-10T14:21:05",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1otmz9z.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/e3ihxz47bh0g1.png",
+        "created_at": "2025-11-10T14:14:17",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1otjgjh.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/giaunb23pg0g1.png",
+        "created_at": "2025-11-10T12:08:18",
+        "score": 29
+    },
+    "data_collection/data/aiArt/img_aiArt_1otjdra.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/eccaa02log0g1.png",
+        "created_at": "2025-11-10T12:05:30",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1otimdq.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/gvlbpulojg0g1.png",
+        "created_at": "2025-11-10T11:38:01",
+        "score": 40
+    },
+    "data_collection/data/aiArt/img_aiArt_1othp5h.jpeg": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/4r8ay5codg0g1.jpeg",
+        "created_at": "2025-11-10T11:04:21",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1oth7jv.jpeg": {
+        "flair": "Image - Meta AI  :a2:",
+        "url": "https://i.redd.it/2dioynhcag0g1.jpeg",
+        "created_at": "2025-11-10T10:45:57",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1otfmmv.png": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/tij7jvqlzf0g1.png",
+        "created_at": "2025-11-10T09:45:27",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1otep3y.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/z0ui1lilsf0g1.png",
+        "created_at": "2025-11-10T09:07:35",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1oteg6u.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/z5gv9m94rf0g1.png",
+        "created_at": "2025-11-10T08:57:54",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ote6cd.png": {
+        "flair": "Image - Sogni AI",
+        "url": "https://i.redd.it/hne4jmzvof0g1.png",
+        "created_at": "2025-11-10T08:46:27",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ote5qn.jpeg": {
+        "flair": "Image - Leonardo.ai :a2:",
+        "url": "https://i.redd.it/1kbie56yof0g1.jpeg",
+        "created_at": "2025-11-10T08:45:44",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1otdevy.jpeg": {
+        "flair": "Image - Bing Image Creator :a2:",
+        "url": "https://i.redd.it/ry6odwe4jf0g1.jpeg",
+        "created_at": "2025-11-10T08:14:13",
+        "score": 11
+    },
+    "data_collection/data/aiArt/img_aiArt_1otdaz0.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/47dgi61gif0g1.jpeg",
+        "created_at": "2025-11-10T08:09:19",
+        "score": 43
+    },
+    "data_collection/data/aiArt/img_aiArt_1otcmr1.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/5sxm7tltcf0g1.jpeg",
+        "created_at": "2025-11-10T07:37:46",
+        "score": 5
+    },
+    "data_collection/data/aiArt/img_aiArt_1otbxpr.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/865nngme6f0g1.png",
+        "created_at": "2025-11-10T07:01:52",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1otbpqn.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/e7dz05nb4f0g1.png",
+        "created_at": "2025-11-10T06:50:20",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1otbg5q.png": {
+        "flair": "Image - DALL E 3 :a2:",
+        "url": "https://i.redd.it/2mapd8lp1f0g1.png",
+        "created_at": "2025-11-10T06:35:34",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1otb0go.png": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/00xcuud8xe0g1.png",
+        "created_at": "2025-11-10T06:10:27",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ota2ly.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/nfqveyisme0g1.png",
+        "created_at": "2025-11-10T05:12:02",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot9vbd.jpeg": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/2ib098j16e0g1.jpeg",
+        "created_at": "2025-11-10T04:59:17",
+        "score": 6
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot971e.png": {
+        "flair": "Image - Midjourney :a2:",
+        "url": "https://i.redd.it/za925eipce0g1.png",
+        "created_at": "2025-11-10T04:15:22",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot9320.jpeg": {
+        "flair": "Image - Nightcafe :a2:",
+        "url": "https://i.redd.it/cscn63iebe0g1.jpeg",
+        "created_at": "2025-11-10T04:08:08",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot8i0o.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/4tdu5sak4e0g1.png",
+        "created_at": "2025-11-10T03:30:01",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot7d6d.jpeg": {
+        "flair": "Image - SoraAI :a2:",
+        "url": "https://i.redd.it/aic159hird0g1.jpeg",
+        "created_at": "2025-11-10T02:16:32",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot7008.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/uq65n4vdnd0g1.jpeg",
+        "created_at": "2025-11-10T01:53:25",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot5tv0.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/2xwkz8fvad0g1.png",
+        "created_at": "2025-11-10T00:43:16",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot5qgn.png": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/kn72yqgv9d0g1.png",
+        "created_at": "2025-11-10T00:37:40",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot5d50.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/te3etwcp5d0g1.png",
+        "created_at": "2025-11-10T00:15:56",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot3z31.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/1pyebdnisc0g1.png",
+        "created_at": "2025-11-09T23:00:59",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot3qcb.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/y6svt0dcqc0g1.jpeg",
+        "created_at": "2025-11-09T22:48:12",
+        "score": 40
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot2v55.png": {
+        "flair": "Image - Microsoft Copilot",
+        "url": "https://i.redd.it/wuzsfiwkic0g1.png",
+        "created_at": "2025-11-09T22:04:44",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot2nxu.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/m5i3ddpsgc0g1.png",
+        "created_at": "2025-11-09T21:54:51",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot1wg3.jpeg": {
+        "flair": "Image - FLUX :a2:",
+        "url": "https://i.redd.it/omendvi5ac0g1.jpeg",
+        "created_at": "2025-11-09T21:17:36",
+        "score": 1
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot1a6t.jpeg": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/b55haaxx4c0g1.jpeg",
+        "created_at": "2025-11-09T20:48:23",
+        "score": 4
+    },
+    "data_collection/data/aiArt/img_aiArt_1ot018d.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/yoc1fsggub0g1.jpeg",
+        "created_at": "2025-11-09T19:49:31",
+        "score": 9
+    },
+    "data_collection/data/aiArt/img_aiArt_1osyeek.png": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/tznihln0hb0g1.png",
+        "created_at": "2025-11-09T18:34:50",
+        "score": 2
+    },
+    "data_collection/data/aiArt/img_aiArt_1oswsft.jpeg": {
+        "flair": "Image - Google Gemini :a2:",
+        "url": "https://i.redd.it/yr64nmgz4b0g1.jpeg",
+        "created_at": "2025-11-09T17:26:43",
+        "score": 3
+    },
+    "data_collection/data/aiArt/img_aiArt_1oswlhu.jpeg": {
+        "flair": "Image - Stable Diffusion :a2:",
+        "url": "https://i.redd.it/vol9sc6i3b0g1.jpeg",
+        "created_at": "2025-11-09T17:18:48",
+        "score": 0
+    },
+    "data_collection/data/aiArt/img_aiArt_1ox2ms0.jpeg": {
+        "flair": "Image - ChatGPT :a2:",
+        "url": "https://i.redd.it/735nuao5b91g1.jpeg",
+        "created_at": "2025-11-14T12:21:55",
+        "score": 1
     }
 }
