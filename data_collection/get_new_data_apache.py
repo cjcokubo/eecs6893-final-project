@@ -22,7 +22,8 @@ from google.cloud import bigquery
 DALLE_SUBR = "dalle2"
 MIDJ_SUBR = "midjourney"
 AIART_SUBR = "aiArt"
-SUBREDDITS = [DALLE_SUBR, MIDJ_SUBR, AIART_SUBR]
+ART_SUBR = "Art"
+SUBREDDITS = [DALLE_SUBR, MIDJ_SUBR, AIART_SUBR, ART_SUBR]
 
 # GCS Configuration
 GCS_BUCKET = "art-bkt" 
@@ -48,11 +49,18 @@ CONTENT_TYPE_MAP = {
 FLAIR_DICT = {DALLE_SUBR: set(['DALL·E 2', 'DALL·E 3']),
               MIDJ_SUBR: set(['AI Showcase - Midjourney']),
               AIART_SUBR: set(['Image - DALL E 3 :a2:',
-                              'Image - Midjourney :a2:'])
+                              'Image - Midjourney :a2:']),
+              ART_SUBR: None
             }
 
 AIART_MAP = {'Image - DALL E 3 :a2:': DALLE_SUBR,
             'Image - Midjourney :a2:': MIDJ_SUBR}
+
+MODEL_MAP = {
+    "dalle2": "dalle",
+    "midjourney": "midjourney",
+    "Art": "authentic"
+}
 
 # Set up logging
 logging.basicConfig(
@@ -138,8 +146,9 @@ def upload_new_images_to_gcs(**context):
         stats['checked'] += 1
         
         # check if post has flair and if so if it is relevant
-        if not submission.link_flair_text or submission.link_flair_text not in flair:
-            continue
+        if flair:
+            if not submission.link_flair_text or submission.link_flair_text not in flair:
+                continue
         stats['passed_flair'] += 1
         
         # check if URL is image
@@ -320,7 +329,7 @@ def create_bigquery_table(**context):
     bucket = storage_client.bucket(GCS_BUCKET)
 
     # only the model folders
-    for subr in ["dalle2", "midjourney"]:
+    for subr in ["dalle2", "midjourney", "Art"]:
         blob = bucket.blob(f"{subr}/metadata.csv")
 
         if blob.exists():
@@ -333,8 +342,7 @@ def create_bigquery_table(**context):
             df['date'] = pd.to_datetime(df['date'])
 
             # add model name column
-            model_name = "dalle" if subr == "dalle2" else "midjourney"
-            df['model'] = model_name
+            df['model'] = MODEL_MAP.get(subr, subr) 
         
             # job settings for loading df to table
             job_config = bigquery.LoadJobConfig(
