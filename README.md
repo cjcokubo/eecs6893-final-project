@@ -198,6 +198,7 @@ The transfer learning model is a fine-tuned version of SuSy that classifies imag
   - Stage 1: Train projection layer only (10 epochs)
   - Stage 2: Fine-tune entire model (10 epochs)
 - **Performance**:
+
 | Class/Model | Original SuSy | Finetuned SuSy |
 |-------------|---------------|----------------|
 | Authentic   | 68.22%        | 57.71%         |
