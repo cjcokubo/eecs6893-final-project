@@ -197,7 +197,12 @@ The transfer learning model is a fine-tuned version of SuSy that classifies imag
 - **Training Strategy**: Two-stage
   - Stage 1: Train projection layer only (10 epochs)
   - Stage 2: Fine-tune entire model (10 epochs)
-- **Performance**: ~88-92% validation accuracy
+- **Performance**:
+| Class/Model | Original SuSy | Finetuned SuSy |
+|-------------|---------------|----------------|
+| Authentic   | 68.22%        | 57.71%         |
+| DALLE       | 0.32%         | 14.38%         |
+| Midjourney  | 0.28%         | 43.37%         |
 
 ### Using a Custom Checkpoint
 ```python
